@@ -1,0 +1,2 @@
+Model	best acc	loss
+distilbert	0.835209681958908	0.43515738558603384
